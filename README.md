@@ -18,6 +18,8 @@ Common chips are CP2102, CH340, or FT232RL.
 6. (Optional but Recommended) ESP32-CAM-MB Programmer: This board acts as a shield for the ESP32-CAM and simplifies the flashing process by providing a direct USB connection and reset/boot buttons. 
 If you have one, the wiring becomes much simpler.
 
+Watch this video for Installation https://youtu.be/sr2S48lOfOU
+
 Step 1: Prepare Arduino IDE for ESP32 Boards
 1. Open Arduino IDE.
 2. Add ESP32 Board Manager URL:
